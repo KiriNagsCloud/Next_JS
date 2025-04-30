@@ -1,1 +1,4 @@
-# Next_JS
+# Intro Next_JS
+
+Site Next.Js:
+https://nextjs.org/docs/app/getting-started/installation
